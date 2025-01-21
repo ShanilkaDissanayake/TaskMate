@@ -1,0 +1,15 @@
+C:\Users\Harshana\source\repos\project\project\bin\Debug\project.exe.config
+C:\Users\Harshana\source\repos\project\project\bin\Debug\project.exe
+C:\Users\Harshana\source\repos\project\project\bin\Debug\project.pdb
+C:\Users\Harshana\source\repos\project\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\Harshana\source\repos\project\project\obj\Debug\project.Registration.resources
+C:\Users\Harshana\source\repos\project\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\Harshana\source\repos\project\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\Harshana\source\repos\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\Harshana\source\repos\project\project\obj\Debug\project.exe
+C:\Users\Harshana\source\repos\project\project\obj\Debug\project.pdb
+C:\Users\Harshana\source\repos\project\project\obj\Debug\project.login.resources
+C:\Users\Harshana\source\repos\project\project\obj\Debug\project.task.resources
+C:\Users\Harshana\source\repos\project\project\obj\Debug\project.opening.resources
+C:\Users\Harshana\source\repos\project\project\obj\Debug\project.addtask.resources
+C:\Users\Harshana\source\repos\project\project\obj\Debug\project.updatetask.resources
